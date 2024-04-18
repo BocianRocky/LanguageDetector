@@ -1,0 +1,21 @@
+    Procesor (CPU): Jest to główny komponent komputera, który wykonuje wszystkie obliczenia i
+    operacje logiczne. Składa się on z wielu milionów tranzystorów, które przetwarzają dane zgodnie z instrukcjami programu.
+     Procesor może mieć wiele rdzeni wykonawczych, co pozwala na równoczesne wykonywanie wielu zadań.
+
+    Pamięć RAM: Jest to rodzaj pamięci, w której komputer przechowuje dane tymczasowe potrzebne do bieżących operacji.
+    Jest to szybka pamięć, do której procesor ma szybki dostęp, co przyspiesza działanie systemu. Pamięć RAM jest ulotna, co oznacza,
+    że dane w niej zawarte są tracone po wyłączeniu zasilania.
+
+    Pamięć masowa: Komputer potrzebuje miejsca do przechowywania danych na stałe. Do tego celu wykorzystywane są nośniki pamięci masowej,
+    takie jak dyski twarde (HDD) czy dyski SSD (Solid State Drive).
+     Dyski twarde składają się z obracających się talerzy pokrytych magnetyczną warstwą, podczas gdy dyski SSD korzystają z pamięci flash, co sprawia, że są one znacznie szybsze od tradycyjnych dysków twardych.
+
+    Płyta główna: Jest to główny element komputera, który łączy ze sobą wszystkie inne komponenty.
+    Na płycie głównej znajdują się gniazda, do których podłącza się procesor, pamięć RAM, karty rozszerzeń,
+    dyski i inne urządzenia. Zapewnia również ścieżki komunikacyjne, które umożliwiają przesyłanie danych między różnymi komponentami.
+
+    Zasilanie i obudowa: Komputer potrzebuje zasilania, dlatego wyposażony jest w zasilacz,
+     który dostarcza energię elektryczną do wszystkich komponentów.
+      Obudowa komputera chroni te komponenty przed uszkodzeniami mechanicznymi i zapewnia odpowiednią wentylację,
+      aby utrzymać odpowiednią temperaturę pracy. Dodatkowo, obudowa zawiera przyciski zasilania oraz porty do
+      podłączania różnych urządzeń zewnętrznych, takich jak klawiatura, mysz czy monitor.

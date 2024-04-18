@@ -1,0 +1,19 @@
+Šachy jsou strategickou deskovou hrou pro dva hráče, která se odehrává na šachovnici o velikosti 8x8 polí.
+ Hráči mají na začátku hry šestnáct figurek každý, včetně krále, dámy, věží, jezdců, střelců a pěšců.
+  Cílem hry je dosáhnout matu, což znamená ohrozit soupeřův král tak, že mu nebude možné uniknout.
+
+Během hry se hráči střídavě pohybují svými figurkami po šachovnici podle určitých pravidel.
+Každá figura má své specifické pohyby, které určují, jak se může po šachovnici pohybovat.
+ Hráči se snaží vytvářet taktické kombinace a strategické plány, aby získali výhodu nad soupeřem.
+
+Šachy jsou známé pro svou hloubku a složitost. Vyžadují kombinaci taktického myšlení,
+plánování a schopnosti předvídat soupeřovy tahy. Hráči musí být schopni rozpoznat
+a využít různé pozice na šachovnici a taktiky, aby dosáhli vítězství.
+
+Šachy nejsou jen zábavnou deskovou hrou, ale také jsou považovány za sport,
+ umění a vědu. Milióny lidí po celém světě se aktivně věnují šachům a existuje
+ mnoho mezinárodních soutěží a turnajů, které přitahují hráče z různých koutů světa.
+
+Šachy mají bohatou historii a tradici, která sahá až tisíce let.
+Tato hra se vyvinula z různých kultur a zemí a stala se nejen zábavnou aktivitou,
+ale také důležitým prvkem intelektuálního a sociálního rozvoje.

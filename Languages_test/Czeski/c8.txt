@@ -1,0 +1,9 @@
+Otázka, zda roboti převezmou kontrolu nad lidmi, je tématem diskuse ve světě vědy,
+ technologie a filozofie. Někteří vědci se obávají, že rozvoj umělé inteligence a
+  automatizace práce může vést k ztrátě pracovních míst pro lidi a k případné dominanci strojů.
+   Nicméně v této otázce dosud není jednomyslnost, protože existují také argumenty pro to, že
+   lidstvo bude schopno kontrolovat vývoj technologií a využívat je k svému prospěchu, místo aby
+   se stalo jejich otrokem. Existuje také řada etických, sociálních a právních otázek,
+   které musí být zohledněny při zavádění nových technologií, aby se zajistilo, že slouží
+    blahobytu lidstva. Proto budoucnost vztahů mezi lidmi a roboty
+zůstává nejistá a bude záviset na tom, jak společnosti budou řídit technologický pokrok.

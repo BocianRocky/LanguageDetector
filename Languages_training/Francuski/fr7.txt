@@ -1,0 +1,21 @@
+L'idée initiale d'Ernő Rubik était de construire un cube afin d'amener ses étudiants à deviner quel était son mécanisme interne,
+ comment les petits cubes pouvaient tourner suivant trois axes tout en restant solidaires, et ainsi de les intéresser
+ à la géométrie en trois dimensions3.
+
+Ce n'est qu'ensuite qu'il eut l'idée (grâce à la suggestion d'un ami) de colorer chaque face d'une couleur différente,
+ constatant alors qu'après mélange, l'état résolu du cube s'avérait extrêmement difficile à retrouver
+  (une chance sur 43 252 003 274 489 860 000 à chaque rotation).
+  Il eut alors l'idée de le commercialiser en tant que « casse-tête » géométrique et mathématique.
+   Il faudra un mois à l'inventeur du Rubik's Cube pour résoudre son propre casse-tête5.
+
+En Hongrie, le cube gagne en popularité par le bouche-à-oreille et est bientôt connu dans toute l'Europe.
+En septembre 1979, à l'instigation de Bernard Farkas6, un accord est signé avec Ideal Toys pour distribuer
+le cube mondialement. Ideal Toys renomme alors le cube « Rubik's Cube » et les premiers exemplaires sont exportés
+de Hongrie vers mai 1980, en direction de Londres, de New York et de Paris.
+
+Aujourd'hui, le Rubik's Cube est copié sous licence par de nombreux distributeurs par le monde.
+Il est distribué par Win Games en France et par Jumbo en Belgique.
+
+En 1981, Patrick Bossert, écolier britannique de douze ans, publie sa solution détaillée.
+You can do the cube s'est vendu à 1,5 million d'exemplaires à travers le monde10, dans dix-sept éditions différentes.
+Il est numéro un des best-sellers du Times et du New York Times en 1981.

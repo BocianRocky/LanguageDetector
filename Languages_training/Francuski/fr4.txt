@@ -1,0 +1,20 @@
+L'AK-47 tire sa robustesse de sa conception faussement rustique, puisqu'il s'agit d'une rusticité toute pensée.
+De manière générale, l'AK, comme beaucoup d'armes réputées fiables (Makarov PM, Uzi, , etc.) a été conçue avec
+ le moins de pièces possibles, minimisant ainsi le risque de défaillance. L'arme est conçue avec du jeu — c’est-à-dire
+ des tolérances mécaniques de fonctionnement — pour permettre aux poussières de ne pas bloquer le mécanisme.
+ Les munitions de calibre (7,62 × 39 mm, et dans une moindre mesure la 5,45 × 39 mm) sont coniques pour faciliter l'entrée dans la chambre;
+
+
+  il faut aussi prendre en compte la fixation du chargeur, ne nécessitant ni tringlerie, ni éjecteur,
+  ce qui en fait un point de fragilité en moins. Enfin, l'éjection de la cartouche ne se fait pas grâce à
+  un traditionnel ressort, mais grâce à l'emprunt de gaz issus de la combustion de la poudre de chaque cartouche.
+   D'ailleurs, cet emprunt de gaz, sur les versions militaires, peut être ajusté, permettant par exemple de décrasser
+
+   l'arme grâce aux gaz ainsi que de la maintenir dans les limites définies par le constructeur des températures de
+   fonctionnement des pièces. Il peut aussi être intéressant de parler du sélecteur de tir, très rudimentaire, puisqu'il
+   ne s'agit que d'une pièce qui tourne dans le corps de l'arme afin de bloquer (ou non) le percuteur.
+
+   les gaz prélevés lors d'un tir poussent un piston solidaire du porte-culasse. Celui-ci recule en entraînant la culasse,
+    ce qui imprime à cette dernière une rotation la dégageant des tenons qui la liaient au canon afin de la verrouiller avant la percussion
+    l'ensemble recule en comprimant le ressort récupérateur en épuisant l'énergie du recul.
+    Le ressort récupérateur ramène alors toutes les pièces vers l'avant

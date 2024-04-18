@@ -1,0 +1,15 @@
+Kalkulátor je zařízení nebo aplikace, která slouží k provádění matematických operací a výpočtů.
+Jeho hlavní funkcí je usnadnění rychlých a přesných výpočtů,
+které by jinak mohly být časově náročné nebo obtížné provést ručně.
+
+Kalkulátory jsou široce využívány ve všech oblastech, kde jsou potřebné matematické operace,
+od jednoduchých aritmetických výpočtů až po složitější funkce a rovnice. Mohou být použity ve školách,
+při práci, při obchodních transakcích, v technických oborech, vědě, inženýrství a mnoha dalších oblastech.
+
+Moderní kalkulátory mohou nabízet různé funkce a možnosti, jako jsou základní aritmetika,
+ trigonometrické funkce, logaritmy, exponenty, statistické a finanční výpočty, a mnoho dalšího.
+ Existují také specializované kalkulátory určené pro specifické účely, jako jsou grafické kalkulátory pro matematické
+ modelování nebo vědecké kalkulátory pro profesionální výpočty.
+
+Celkově lze říci, že kalkulátor slouží k usnadnění a zrychlení matematických výpočtů a je nenahraditelným nástrojem
+ v mnoha oblastech lidské činnosti, kde jsou potřebné matematické dovednosti.

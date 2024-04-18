@@ -1,0 +1,6 @@
+Une cartouche dans une arme à feu est un ensemble complet composé d'une balle (qui est souvent associée à une douille),
+de poudre à canon et d'une amorce (qui déclenche la charge de poudre). La cartouche est l'unité de munition placée dans la
+chambre de l'arme à feu et prête à être utilisée. Après le tir, les gaz de combustion produits par la détonation de la poudre
+ dans la cartouche poussent la balle à travers le canon de l'arme, lui donnant vitesse et direction. Une cartouche dans une arme
+ à feu peut avoir différents calibres et formes en fonction du type d'arme et de son utilisation, et son choix approprié est essentiel
+  pour un tir sûr et efficace.

@@ -1,0 +1,7 @@
+Fala uderzeniowa to zjawisko fizyczne, które występuje, gdy energia jest szybko przekazywana przez ośrodek materialny,
+na przykład przez powietrze, wodę lub skały. Jest efektem nagłego zakłócenia równowagi mechanicznej ośrodka i może mieć
+ różne przyczyny, takie jak eksplozje, trzęsienia ziemi czy nawet uderzenia obiektów w wodę.
+  Fale uderzeniowe charakteryzują się nagłym wzrostem ciśnienia i gęstości ośrodka, co prowadzi do powstania
+   fal sprężystych, które rozchodzą się promieniście od źródła. Ich siła i skutki zależą od energii, jaką
+   posiadają oraz od właściwości środowiska, przez które się poruszają, co może prowadzić do poważnych konsekwencji
+   zarówno w środowisku naturalnym, jak i w kontekście technologicznym czy medycznym.
